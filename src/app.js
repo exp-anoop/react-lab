@@ -7,6 +7,7 @@ import Options from './components/Options';
 import Counter from './components/Counter';
 import Header from './components/Header';
 
+import './styles/styles.scss';
 
 class AppComponent extends React.Component {
 

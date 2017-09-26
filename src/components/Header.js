@@ -8,7 +8,7 @@ import React from 'react';
 
 // Stateless functional components
 const Header = (props) => {
-    return <h1>{props.title}</h1>;
+    return <h1 className="header">{props.title}</h1>;
 }
 
 Header.defaultProps = {
