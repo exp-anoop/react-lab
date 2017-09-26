@@ -5,7 +5,7 @@ import AddOptions from './components/AddOptions';
 import Action from './components/Action';
 import Options from './components/Options';
 import Counter from './components/Counter';
-import Header from './components/Header';
+import Header from './components/Header';//arya
 
 
 class AppComponent extends React.Component {
@@ -53,7 +53,7 @@ class AppComponent extends React.Component {
         }
     }
 
-   
+
     render() {
 
         const title = "My Application :)";
